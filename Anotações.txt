@@ -1,0 +1,7 @@
+Sidebar - menu lateral na esquerda escondido
+
+https://www.w3schools.com/w3css/w3css_sidebar.asp
+
+Animation - Para fazer o efeito de movimento da esquerda para a direita
+
+Tag para toda a página para quando o usuário clicar na página fechar o sidebar
